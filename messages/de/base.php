@@ -1,6 +1,6 @@
 <?php
 return array (
-  '<strong>YourAcclaim</strong> Badges Configuration' => '<strong>YourAcclaim</strong> Abzeichen Konfiguration',
+  '<strong>YourAcclaim</strong> Badges Configuration' => '<strong>YourAcclaim</strong> Abzeichen-Konfiguration',
   'API base url' => 'API Basis URL',
   'Add also badges from other organizations to your profile.' => 'Auch Abzeichen von anderen Organisationen zum Profil hinzufügen.',
   'Allows the users to add third party badges to their profile.' => 'Erlaube den Nutzern Abzeichen von Drittanbietern hinzuzufügen.',
