@@ -1,7 +1,7 @@
 <?php
 return array (
   '<strong>YourAcclaim</strong> Badges Configuration' => 'Configuration des badges <strong>YourAcclaim</strong>',
-  'API base url' => '',
+  'API base url' => 'URL de base de l\'API',
   'Add also badges from other organizations to your profile.' => 'Ajoutez également des badges d\'autres organisations à votre profil.',
   'Allows the users to add third party badges to their profile.' => 'Permet aux utilisateurs d\'ajouter des badges tiers à leur profil.',
   'Badges' => 'Badges',
@@ -9,7 +9,7 @@ return array (
   'Could not connect your account to YourAcclaim!' => 'Impossible de se connecter à votre compte YourAcclaim !',
   'Example: https://sandbox-api.youracclaim.com or https://api.youracclaim.com' => 'Exemple : https://sandbox-api.youracclaim.com ou https://api.youracclaim.com',
   'Example: https://sandbox.youracclaim.com or https://www.youracclaim.com' => 'Exemple : https://sandbox.youracclaim.com ou https://www.youracclaim.com',
-  'Hint:' => '',
+  'Hint:' => 'Astuce :',
   'Issued at:' => 'Délivré à :',
   'Link Acclaim account' => 'Associer un compte Acclaim',
   'OAuth2 API' => 'OAuth2 API',
