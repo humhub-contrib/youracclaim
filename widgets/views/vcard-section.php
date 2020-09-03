@@ -7,7 +7,7 @@
 
 use yii\helpers\Html;
 
-/* @var $this \humhub\components\View */
+/* @var $this \humhub\modules\ui\view\components\View */
 /* @var $badges \humhub\modules\youracclaim\models\Badge[] */
 
 ?>
