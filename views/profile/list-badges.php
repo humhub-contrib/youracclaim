@@ -16,13 +16,13 @@ use yii\bootstrap\Html;
 
     <div class="modal-body">
         <?php foreach ($badges as $badge): ?>
-            <div class="media" style="padding-bottom:12px">
-                <div class="media-left" style="padding-right:12px">
+            <div class="d-flex" style="padding-bottom:12px">
+                <div class="flex-shrink-0" style="padding-right:12px">
                     <?= Html::a(Html::img($badge->imageUrl, ['width' => 72]), $badge->url, ['target' => '_blank']); ?>
                     &nbsp;
                 </div>
-                <div class="media-body" style="padding-bottom:0px">
-                    <h4 class="media-heading"><?=
+                <div class="flex-grow-1" style="padding-bottom:0px">
+                    <h4><?=
                         Html::a(
                             Html::encode($badge->title),
                             $badge->url, ['target' => '_blank']
